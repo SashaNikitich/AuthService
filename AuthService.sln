@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthService", "src\AuthService\AuthService.csproj", "{2EB517D7-63C3-48CF-9E74-4DC7C699A90F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\tests.csproj", "{2F5DC262-9C47-4595-80B1-079D9E9C77FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB517D7-63C3-48CF-9E74-4DC7C699A90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB517D7-63C3-48CF-9E74-4DC7C699A90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB517D7-63C3-48CF-9E74-4DC7C699A90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB517D7-63C3-48CF-9E74-4DC7C699A90F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F5DC262-9C47-4595-80B1-079D9E9C77FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5DC262-9C47-4595-80B1-079D9E9C77FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5DC262-9C47-4595-80B1-079D9E9C77FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5DC262-9C47-4595-80B1-079D9E9C77FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
